@@ -1,5 +1,5 @@
 pro GLSP,fbeg=fbeg,fend=fend,pbeg=pbeg,pend=pend,np=np,outarr=outarr,outarrdown=outarrdown,file=file
-;Thiis program is used to calculate the significance range and add to the LS
+;Thiis program is used to calculate the significance range and add to the GLS
 
 
 w=strmid(file,0,9)
