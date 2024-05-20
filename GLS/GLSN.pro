@@ -1,3 +1,5 @@
+;; https://github.com/mzechmeister/GLS/tree/master/idl We refer to this code.
+
 PRO GLSN,time,ydata,dy,f,p,fbeg=fbeg, fend=fend,  pbeg=pbeg, pend=pend, np=np, ls=ls, nostat=nostat, noplot=noplot, ofac=ofac
 ;;;2021_11_22 corrected by Jiang, Zhaohao Chen
 ;;; THis version, we normalize the flux and flux error by dividing it with the maximal value of flux
