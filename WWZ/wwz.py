@@ -1,3 +1,5 @@
+https://github.com/skiehl/wwz
+
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 """A class for weighted wavelet z-transform analysis.
