@@ -1,4 +1,4 @@
-#https://github.com/skiehl/wwz
+#https://github.com/skiehl/wwz we refer to this code and add the normalized WWZ.
 
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
